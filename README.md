@@ -1,3 +1,3 @@
 # VirtualDrumKit
 
-A Drum Kit model to play around, to show off your musical skills!
+A Drum Kit model to simulate drums virtually! Play using your keyboard or your mouse and bring out the musician in you...
